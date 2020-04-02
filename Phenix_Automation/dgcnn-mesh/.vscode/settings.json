@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/home/nk4464/miniconda3/envs/tf_gpu/bin/python",
+    "git.ignoreLimitWarning": true
+}

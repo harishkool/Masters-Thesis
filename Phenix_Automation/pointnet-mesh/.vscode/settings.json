@@ -1,0 +1,7 @@
+{
+    "ros.distro": "kinetic",
+    "python.autoComplete.extraPaths": [
+        "/opt/ros/kinetic/lib/python2.7/dist-packages"
+    ],
+    "python.pythonPath": "/home/nk4464/miniconda3/envs/pytorch/bin/python"
+}

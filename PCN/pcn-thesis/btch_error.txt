@@ -1,0 +1,3 @@
+['airplane_16891', 'chair_22449', 'sofa_7383', 'sofa_13243', 'lamp_15478', 'sofa_18133', 'airplane_29006', 'table_2752', 'lamp_1358', 'cabinet_4320', 'car_23867', 'table_25506', 'table_11443', 'watercraft
+_667', 'chair_45165', 'watercraft_12718', 'chair_8038', 'car_41596', 'chair_8009', 'watercraft_1985', 'chair_19560', 'table_8177', 'table_12321', 'car_2765', 'chair_16415', 'chair_795', 'sofa_5939', 'chai
+r_3935', 'car_7219', 'airplane_30078', 'table_11939', 'chair_11183']
